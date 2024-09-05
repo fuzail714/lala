@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: antiquewhite;
+background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flogistics&psig=AOvVaw1bsOA7JuSvpgszhUlIDIzu&ust=1725630546116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjds_H4q4gDFQAAAAAdAAAAABAE)
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Flogistics&psig=AOvVaw1bsOA7JuSvpgszhUlIDIzu&ust=1725630546116000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjds_H4q4gDFQAAAAAdAAAAABAE);
+    padding: 20px;
+    margin: 10px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.service {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-top: 10px;
+}
+
+form input, form textarea {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
